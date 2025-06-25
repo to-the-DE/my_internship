@@ -1,6 +1,6 @@
 ## Технические задания к модулю 4  
 
-#### 1. [Работа с PostgreSQL](https://github.com/to-the-DE/my_internship/module_4/hw_module_4_pg.sql)  
+#### 1. [Работа с PostgreSQL](https://github.com/to-the-DE/my_internship/blob/main/module_4/hw_module_4_pg.sql)  
 
 - Создайте функцию логирования изменений по трем полям.  
 - Создайте trigger на таблицу users.    
